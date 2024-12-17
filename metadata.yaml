@@ -1,0 +1,39 @@
+_repo: Richard-Lepsius-a-biography_74815
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Underhill, Zoe Dana
+    gutenberg_agent_id: '57665'
+    url: http://www.gutenberg.org/2009/agents/57665
+creator:
+  author:
+    agent_name: Ebers, Georg
+    aliases:
+    - Ebers, Georg Moritz
+    - Ebers, George Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Georg_Ebers
+    - https://de.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_issued: '2024-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74815'
+language: en
+pgterms:marc905: 20220402034403ebers
+pgterms:marc906: '1887'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNYC :$bWilliam S. Gottsberger, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Richard Lepsius, a biography
+url: http://www.gutenberg.org/ebooks/74815
