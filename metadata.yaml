@@ -5,6 +5,9 @@ contributor:
     agent_name: Underhill, Zoe Dana
     gutenberg_agent_id: '57665'
     url: http://www.gutenberg.org/2009/agents/57665
+covers:
+- cover_type: archival
+  image_path: 74815-h/images/cover.jpg
 creator:
   author:
     agent_name: Ebers, Georg
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Georg_Ebers
     - https://de.wikipedia.org/wiki/Georg_Ebers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74815#Richard-Lepsius-a-biography
 gutenberg_issued: '2024-11-30'
 gutenberg_type: Text
 identifiers:
